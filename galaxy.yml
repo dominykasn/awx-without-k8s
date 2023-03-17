@@ -1,6 +1,6 @@
 namespace: fitbeard
 name: awx
-version: 0.1.0 # injected dynamically when publishing
+version: 21.13.0
 readme: README.md
 authors:
   - Tadas Sutkaitis <tadasas@gmail.com>
